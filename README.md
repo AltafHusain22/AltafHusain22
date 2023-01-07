@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Mimshackshop](https://www.mimshackresources.training/)
 
-- 🌱 I’m currently learning **React,Node Js**
+- 🌱 currently learning **React,Node Js**
 
-- 👯 I’m looking to collaborate on [globalcreative-it](globalcreative-it.co.za)
+- 👯  looking to collaborate on [globalcreative-it](globalcreative-it.co.za)
 
-- 🤝 I’m Doing Freelancing on [Fiverr](https://www.fiverr.com/eng_altafmahmud?up_rollout=true)
+- 🤝  Doing Freelancing on [Fiverr](https://www.fiverr.com/eng_altafmahmud?up_rollout=true)
 
 - 👨‍💻 All of my projects are available at [https://www.globalwebengineer.com/](https://www.globalwebengineer.com/)
 
