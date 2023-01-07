@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altaf Husain</h1>
 <h3 align="center">Passionate Web Developer | React | Node Js | Wordpress</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" >
+<img style="width: 250px"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altafhusain22&label=Profile%20views&color=0e75b6&style=flat" alt="altafhusain22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altafhusain22" alt="altafhusain22" /></a> </p>
