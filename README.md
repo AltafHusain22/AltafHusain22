@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altaf Husain</h1>
-<h3 align="center">Passionate Web Developer | React | Node Js | Wordpress</h3>
+<h3 align="center">Passionate Web Developer | React JS | Node Js | Express Js | Mongo DB</h3>
 <img style="width: 250px"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altafhusain22&label=Profile%20views&color=0e75b6&style=flat" alt="altafhusain22" /> </p>
 
